@@ -213,7 +213,8 @@ const SignUp = () => {
       4. admin manage user
       5.admin manage classes
       6.navbar
-      7.banner*/}
+      7.banner
+      8.footer added*/}
     </>
   );
 };
