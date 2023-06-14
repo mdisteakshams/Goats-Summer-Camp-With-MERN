@@ -207,6 +207,7 @@ const SignUp = () => {
           </div>
         </div>
       </div>
+      {/* 1. classes data loaded */}
     </>
   );
 };
