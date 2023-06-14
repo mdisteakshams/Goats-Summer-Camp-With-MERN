@@ -215,7 +215,8 @@ const SignUp = () => {
       6.navbar
       7.banner
       8.footer added
-      9.add class*/}
+      9.add class
+      10.selected*/}
     </>
   );
 };
