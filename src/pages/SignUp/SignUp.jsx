@@ -224,7 +224,8 @@ const SignUp = () => {
       15.payment
       16.payment func
       17.enrolled
-      18.remove*/}
+      18.remove
+      19.Popular*/}
     </>
   );
 };
