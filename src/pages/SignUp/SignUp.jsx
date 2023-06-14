@@ -212,7 +212,8 @@ const SignUp = () => {
       3. admin, instructor, student dashboard
       4. admin manage user
       5.admin manage classes
-      6.navbar*/}
+      6.navbar
+      7.banner*/}
     </>
   );
 };
