@@ -210,7 +210,8 @@ const SignUp = () => {
       {/* 1. classes data loaded 
       2. login
       3. admin, instructor, student dashboard
-      4. admin manage user*/}
+      4. admin manage user
+      5.admin manage classes*/}
     </>
   );
 };
