@@ -219,7 +219,8 @@ const SignUp = () => {
       10.selected
       11.Aninmation
       12.teacher can add class
-      13.approve/decline*/}
+      13.approve/decline
+      14.My class*/}
     </>
   );
 };
