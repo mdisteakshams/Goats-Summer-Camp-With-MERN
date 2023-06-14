@@ -222,7 +222,8 @@ const SignUp = () => {
       13.approve/decline
       14.My class
       15.payment
-      16.payment func*/}
+      16.payment func
+      17.enrolled*/}
     </>
   );
 };
