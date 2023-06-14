@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "120a",
+    "name": "Learn Crash Course of Piano",
+    "instructor_name": "Adil Sheikh",
+    "image": "https://i.ibb.co/9qwXzCM/Piano.jpg",
+    "available_seats": 100,
+    "category": "Piano",
+    "price": 1000
+  },
+  {
+    "_id": "121b",
+    "name": "Learn Crash Course of Guitar",
+    "instructor_name": "Masum Khan",
+    "image": "https://i.ibb.co/2nCHWcg/Guitar.jpg",
+    "available_seats": 200,
+    "category": "Guitar",
+    "price": 1000
+  },
+  {
+    "_id": "123b",
+    "name": "Learn Crash Course of Violin",
+    "instructor_name": "Zakir Khan",
+    "image": "https://i.ibb.co/JdqqqVD/Violin.jpg",
+    "available_seats": 50,
+    "category": "Violin",
+    "price": 1000
+  },
+  {
+    "_id": "146a",
+    "name": "Learn Crash Course of Drum",
+    "instructor_name": "Hayley Marrie",
+    "image": "https://i.ibb.co/80b8Y5h/Drum.jpg",
+    "available_seats": 75,
+    "category": "Drum",
+    "price": 1000
+  },
+  {
+    "_id": "156b",
+    "name": "Learn Crash Course of Harmonium",
+    "instructor_name": "Sugandha Thakur",
+    "image": "https://i.ibb.co/QHXhGg5/Harmonium.jpg",
+    "available_seats": 60,
+    "category": "Harmonium",
+    "price": 1000
+  },
+  {
+    "_id": "180a",
+    "name": "Learn Crash Course of Flute",
+    "instructor_name": "Mohammad Rafi",
+    "image": "https://i.ibb.co/3YnKN73/Flute.jpg",
+    "available_seats": 55,
+    "category": "Flute",
+    "price": 1000
+  },
+  {
+    "_id": "115a",
+    "name": "Learn Crash Course of Tambourine",
+    "instructor_name": "Emily Clarke",
+    "image": "https://i.ibb.co/J36NMMD/Tambourine.jpg",
+    "available_seats": 90,
+    "category": "Tambourine",
+    "price": 1000
+  },
+  {
+    "_id": "105a",
+    "name": "Learn Crash Course of Electric Keyboard",
+    "instructor_name": "Richard Andrew",
+    "image": "https://i.ibb.co/fkqrmLX/Keyboard.jpg",
+    "available_seats": 80,
+    "category": "Keyboard",
+    "price": 1000
+  }
+]
