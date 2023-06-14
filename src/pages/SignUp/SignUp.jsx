@@ -217,7 +217,8 @@ const SignUp = () => {
       8.footer added
       9.add class
       10.selected
-      11.Aninmation*/}
+      11.Aninmation
+      12.teacher can add class*/}
     </>
   );
 };
