@@ -220,7 +220,8 @@ const SignUp = () => {
       11.Aninmation
       12.teacher can add class
       13.approve/decline
-      14.My class*/}
+      14.My class
+      15.payment*/}
     </>
   );
 };
