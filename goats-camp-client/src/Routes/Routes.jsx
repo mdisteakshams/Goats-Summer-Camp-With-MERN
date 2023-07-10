@@ -17,6 +17,7 @@ import MyEnrolledClasses from "../pages/DashBoard/MyEnrolledClasses/MyEnrolledCl
 import Instructors from "../pages/Instructors/Instructors";
 import PaymentHistory from "../pages/DashBoard/PaymentHistory/PaymentHistory";
 import AdminRoute from "./AdminRoute";
+import Error from "../pages/Error/Error";
 
 export const router = createBrowserRouter([
   {
@@ -88,5 +89,9 @@ export const router = createBrowserRouter([
         element: <PaymentHistory></PaymentHistory>
       }
     ],
+  },
+  {
+    path: '*',
+    element: <Error></Error>
   },
 ]);
